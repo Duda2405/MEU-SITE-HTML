@@ -1,0 +1,33 @@
+<svg width="100%" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Logo — Equilíbrio na Colher</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Logo minimalista com folha estilizada para site de receitas saudáveis</desc>
+
+  <defs>
+    
+  <mask id="imagine-text-gaps-wpu96f" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="680" height="320" fill="white"/><rect x="215.88046264648438" y="214.31027221679688" width="248.2390594482422" height="35.734365463256836" fill="black" rx="2"/><rect x="281.72808837890625" y="250.1774444580078" width="116.54380798339844" height="16.089282035827637" fill="black" rx="2"/><rect x="274.53826904296875" y="280.1774597167969" width="130.9234390258789" height="16.089282035827637" fill="black" rx="2"/></mask></defs>
+
+  <!-- Leaf shape: two overlapping bezier leaves forming a single clean icon -->
+  <!-- Stem -->
+  <line x1="340" y1="205" x2="340" y2="155" stroke-width="2" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(58, 154, 58);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Left leaf -->
+  <path d="M 340 155 C 310 140 288 110 300 82 C 318 95 338 125 340 155 Z" style="fill:rgb(58, 154, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Right leaf -->
+  <path d="M 340 155 C 370 140 392 110 380 82 C 362 95 342 125 340 155 Z" style="fill:rgb(37, 99, 37);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Vein left -->
+  <line x1="340" y1="155" x2="308" y2="98" stroke="#ffffff" stroke-width="0.8" stroke-linecap="round" opacity="0.35" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.35;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Vein right -->
+  <line x1="340" y1="155" x2="372" y2="98" stroke="#ffffff" stroke-width="0.8" stroke-linecap="round" opacity="0.25" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Brand name -->
+  <text x="340" y="242" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="200" letter-spacing="8" style="fill:rgb(26, 42, 26);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Helvetica Neue&quot;, Arial, sans-serif;font-size:28px;font-weight:200;text-anchor:middle;dominant-baseline:auto">EQUILÍBRIO</text>
+
+  <!-- Dividers + "na colher" -->
+  <line x1="220" y1="258" x2="296" y2="258" stroke-width="0.7" opacity="0.5" mask="url(#imagine-text-gaps-wpu96f)" style="fill:rgb(0, 0, 0);stroke:rgb(58, 154, 58);color:rgb(0, 0, 0);stroke-width:0.7px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="340" y="262" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="400" letter-spacing="5" style="fill:rgb(58, 154, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Helvetica Neue&quot;, Arial, sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">NA COLHER</text>
+  <line x1="384" y1="258" x2="460" y2="258" stroke-width="0.7" opacity="0.5" mask="url(#imagine-text-gaps-wpu96f)" style="fill:rgb(0, 0, 0);stroke:rgb(58, 154, 58);color:rgb(0, 0, 0);stroke-width:0.7px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Tagline -->
+  <text x="340" y="292" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="300" letter-spacing="2" style="fill:rgb(122, 149, 122);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Helvetica Neue&quot;, Arial, sans-serif;font-size:10.5px;font-weight:300;text-anchor:middle;dominant-baseline:auto">receitas saudáveis</text>
+</svg>
