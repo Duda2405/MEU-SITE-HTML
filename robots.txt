@@ -1,0 +1,4 @@
+Sitemap: https://duda2405.github.io/meu-site-html/sitemap.xml
+
+User-agent: *
+Allow: /
